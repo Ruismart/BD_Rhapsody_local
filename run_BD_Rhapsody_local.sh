@@ -51,7 +51,7 @@ tar czvf \
 STAR_index_vM25.tar.gz \
 path-to-STAR-index-output/STAR_index_vM25
  
-# the index tag.gz must contain one sub-directory and all index files in it, or get error~
+# the index tar.gz must contain one sub-directory and all index files in it, or get error~
 tar -tf  STAR_index_vM25.tar.gz
 
 
