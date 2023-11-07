@@ -15,7 +15,7 @@
 ##       http://bd-rhapsody-public.s3-website-us-east-1.amazonaws.com/Rhapsody-WTA/?prefix=Rhapsody-WTA/
 ##           could check those files used on AWS, SampleMultiplexDemo - how do they look like
 ##
-##     https://bitbucket.org/CRSwDev/cwl/src/master/
+##     https://bitbucket.org/CRSwDev/cwl/src/master/v1.9.1/
 ##         raw CWL and YML files     
 ##
 ##     env: WLSC   
