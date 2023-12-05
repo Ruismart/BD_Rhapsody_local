@@ -9,9 +9,10 @@ for proj. Nmur1-EOS(https://github.com/Ruismart/Nmur1-EOS)
 
 
 ----------------------     
-202312        
+2023/12        
 according to [the latest update info](https://scomix.bd.com/hc/en-us/articles/360047408451-BD-Rhapsody-Analysis-Pipeline-Updates)        
 the pipeline has been modified with much better performance, glad to hear it              
-(then the way to build it locally is also changed, e.g. the structure of reference index, just check the official manuals)            
+(then the way to build it locally is also changed, e.g. the structure of reference index)    
+(just check the official manuals for details)            
 
 
